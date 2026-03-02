@@ -7,5 +7,5 @@ export interface IMission {
     targetname?: string;
     risklevel?: 'LOW' | 'MEDIUM' | 'HIGH';
     startDate?: Date;
-    enddate?: Date;
+    endDate?: Date;
 }
